@@ -1,0 +1,12 @@
+
+git init
+git push 
+git clone
+
+docker pull
+docker images
+dokcer ps 
+docker ps -a
+dokcer run
+
+
